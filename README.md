@@ -1,2 +1,3 @@
-# fremdwort_des_tages
-Fremdwort des Tages
+# Fremdwort des Tages
+
+[https://www.crmk.de/fdt/](https://www.crmk.de/fdt/)
