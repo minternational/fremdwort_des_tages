@@ -23,5 +23,65 @@
     "id": 5,
     "word": "inkrementell",
     "description": "Das Adjektiv inkrementell bedeutet „aufeinander aufbauend“ und bezeichnet somit etwas, was schrittweise erfolgt."
+  },
+  {
+    "id": 6,
+    "word": "phlegmatisch",
+    "description": "Das Adjektiv phlegmatisch bedeutet „träge“ oder „behäbig“. So lassen sich Personen von ruhigem, gleichgültigem Naturell beschreiben. Jemanden als phlegmatisch bzw. als Phlegmatiker zu bezeichnen, hat jedoch oft einen abwertenden Beiklang."
+  },
+  {
+    "id": 7,
+    "word": "klandestin",
+    "description": "Das bildungssprachliche klandestin bedeutet so viel wie „unbeobachtet“, „im Verborgenen befindlich“ oder „geheim gehalten“. Der Begriff kann sowohl als Adjektiv als auch als Adverb gebraucht werden.    „Heimlich“, „diskret“ oder „geheim“ können als Synonyme für klandestin verwendet werden."
+  },
+  {
+    "id": 8,
+    "word": "kompromittieren",
+    "description": "Das Verb kompromittieren bedeutet „jemanden bloßstellen“, „jemanden in Verlegenheit bringen“ oder „jemandes Ansehen durch ein bestimmtes Verhalten Schaden zufügen“."
+  },
+  {
+    "id": 9,
+    "word": "frivol",
+    "description": "Das Adjektiv frivol bedeutet so viel wie „frech“ oder „schamlos“ und wird im Allgemeinen verwendet, wenn etwas unanständig, anstößig oder unverschämt ist."
+  },
+  {
+    "id": 10,
+    "word": "Kokolores",
+    "description": "Das umgangssprachliche Substantiv Kokolores bedeutet so viel wie „Blödsinn“, „Unfug“, „Nonsens“, aber auch „Geschwätz“ oder “Getue“."
+  },
+  {
+    "id": 11,
+    "word": "indisponibel",
+    "description": "Das Adjektiv indisponibel bedeutet im Allgemeinen „nicht verfügbar oder festgelegt“. So müssen z.B. größere Gesellschaften über eine indisponible, d.h. gebundene Innenfinanzierung verfügen. Der Begriff kann aber auch verwendet werden, wenn etwas unveräußerlich, d.h. nicht verkäuflich ist."
+  },
+  {
+    "id": 12,
+    "word": "konventionell",
+    "description": "Das Adjektiv konventionell bedeutet „förmlich“, „gebräuchlich“, „herkömmlich“. Als konventionell werden Dinge, Sachverhalte, das Verhalten von Personen etc. als in gewohnter Weise bzw. den gesellschaftlichen Normen (Konventionen) entsprechend beschrieben."
+  },
+  {
+    "id": 13,
+    "word": "Dependance",
+    "description": "Das Substantiv Dependance (die) bedeutet im Allgemeinen zunächst „Niederlassung“ bzw. „Zweigstelle“ oder „Filiale“. So hat die McDonalds Corporation in Deutschland 1.450 Dependancen und ist die beliebteste Fast-Food-Kette der deutschen Bevölkerung."
+  },
+  {
+    "id": 14,
+    "word": "Korrektiv",
+    "description": "Das Substantiv Korrektiv (das) bezeichnet Maßnahmen und Mittel, die zum Ziel haben, etwas zu verbessern oder einer bestehenden Ungleichheit entgegenzuwirken. Die viel diskutierte Frauenquote ist beispielsweise der Versuch, ein Korrektiv zu schaffen, um dem Mangel an Frauen in Führungspositionen in Unternehmen entgegenzuwirken."
+  },
+  {
+    "id": 15,
+    "word": "Infarkt",
+    "description": "Das Substantiv Infarkt (der) beschreibt in der Medizin das Absterben von Gewebe oder Organteilen aufgrund einer Sauerstoffunterversorgung, verursacht durch eine Unterbrechung der Blutzufuhr. Am bekanntesten ist der Herzinfarkt."
+  },
+  {
+    "id": 16,
+    "word": "morbid",
+    "description": "Das Adjektiv morbid bezeichnet etwas oder jemanden, der nicht besonders widerstandsfähig bzw. krank oder kränklich ist. So kann z.B. eine morbide, blasse Gesichtsfarbe darauf hinweisen, dass es einer Person gesundheitlich nicht gut geht."
+  },
+  {
+    "id": 17,
+    "word": "impertinent",
+    "description": "Das Adjektiv impertinent bedeutet „unverschämt“, „vorlaut“ oder „frech“. Es kann verwendet werden, um Personen sowie deren Verhalten und Handeln zu beschreiben."
   }
 ]
